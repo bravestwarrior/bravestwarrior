@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bravestwarrior
-- 👀 I’m interested in learning about
+- 👀 I’m interested in learning about git
 - 🌱 I’m currently learning css and html 
 
 
